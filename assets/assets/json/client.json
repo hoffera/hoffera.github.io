@@ -1,0 +1,1181 @@
+Widget exportado
+{
+  "type": "forecast_table",
+  "args": {
+    "hours": [
+      "00",
+      "03",
+      "06",
+      "09",
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "rows": [
+      {
+        "tableData": [
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Velocidade vento (kn)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "Icon"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "1.6"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "2.8"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "3.3"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "2.3"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "5.9"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "7.2"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "7.6"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "6.8"
+                }
+              }
+            ]
+          },
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Rajada (kn)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "Rajada"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "3"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "3"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "3"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "4"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "7"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "8"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "12"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "7"
+                }
+              }
+            ]
+          },
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Direção (graus)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "Dir°"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "45"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "90"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "135"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "180"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "225"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "225"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "225"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "270"
+                }
+              }
+            ]
+          },
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Temperatura (°C)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "T °C"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "16"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "15"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "15"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "20"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "21"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "22"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "19"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "18"
+                }
+              }
+            ]
+          },
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Sens. térmica (°C)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "S.T (°C)"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "14"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "13"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "13"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "18"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "19"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "20"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "17"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "16"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tableData": [
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Chuva (mm)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "mm"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "0"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "0"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "0.5"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "1.2"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "2.3"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "1.8"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "0.8"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "0"
+                }
+              }
+            ]
+          },
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Probab. chuva (%)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "P%"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "10"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "15"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "30"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "45"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "60"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "50"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "35"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "20"
+                }
+              }
+            ]
+          },
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Umidade (%)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "U%"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "75"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "78"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "80"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "82"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "85"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "83"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "80"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "77"
+                }
+              }
+            ]
+          },
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Velocidade onda (kn)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "V.O."
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "2.1"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "2.3"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "2.5"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "2.8"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "3"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "3.2"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "2.9"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "2.5"
+                }
+              }
+            ]
+          },
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Direção onda (graus)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "D.O.°"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "120"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "125"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "130"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "135"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "140"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "140"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "135"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "130"
+                }
+              }
+            ]
+          },
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Altura (m)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "m"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "0.7"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "0.7"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "0.8"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "0.9"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "1"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "1"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "0.9"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "0.8"
+                }
+              }
+            ]
+          },
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Período (s)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "s"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "11.1"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "11.3"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "11.5"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "11.8"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "12"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "12"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "11.9"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "11.7"
+                }
+              }
+            ]
+          },
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Direção onda (°)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "D.O."
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "115"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "120"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "125"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "130"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "135"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "135"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "130"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "125"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tableData": [
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Velocidade vento (kn)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "kn"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "1.6"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "2.8"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "3.3"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "2.3"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "5.9"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "7.2"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "7.6"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "6.8"
+                }
+              }
+            ]
+          },
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Rajada (kn)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "Rajada"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "3"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "3"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "3"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "4"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "7"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "8"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "12"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "7"
+                }
+              }
+            ]
+          },
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Direção (graus)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "Dir°"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "45"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "90"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "135"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "180"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "225"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "225"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "225"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "270"
+                }
+              }
+            ]
+          },
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Temperatura (°C)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "T °C"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "16"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "15"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "15"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "20"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "21"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "22"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "19"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "18"
+                }
+              }
+            ]
+          },
+          {
+            "label": {
+              "widget": {
+                "type": "text",
+                "text": "Sens. térmica (°C)"
+              }
+            },
+            "shortLabel": {
+              "widget": {
+                "type": "text",
+                "text": "S.T (°C)"
+              }
+            },
+            "values": [
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "14"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "13"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "13"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "18"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "19"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "20"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "17"
+                }
+              },
+              {
+                "widget": {
+                  "type": "text",
+                  "text": "16"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
